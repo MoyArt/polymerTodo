@@ -1,0 +1,30 @@
+{
+  "name": "Polymer-ToDo",
+  "description": "My First Polymer To-do App",
+  "main": "",
+  "keywords": [
+    "Polymer",
+    "To-do",
+    "App",
+    "Progressive",
+    "Web",
+    "Apps"
+  ],
+  "authors": [
+    "MoyArt"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.moyart.com.mx",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Polymer": "Polymer/polymer#1.2.4",
+    "iron-elements": "^1.0.10",
+    "paper-elements": "^1.0.7"
+  }
+}
